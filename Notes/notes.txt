@@ -1,2 +1,3 @@
+
 byte32 encode from browser.  only works with metamask installed.  do it from commandline
 web3.padRight(web3.fromAscii('mystringhere'), 34)
